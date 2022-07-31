@@ -1,7 +1,6 @@
 # Neural Network Charity Analysis
 ## Overview
 In this project we created a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup.<br>
-<br>
 ## Results
 ### Data Preprocessing:<br>
 - What variable(s) are considered the target(s) for your model?
